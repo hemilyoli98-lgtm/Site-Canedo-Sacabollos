@@ -1,0 +1,17 @@
+{
+  "name": "canedo-sacabollos",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "15.0.3",
+    "react": "19.0.0-rc-6230049163",
+    "react-dom": "19.0.0-rc-6230049163",
+    "framer-motion": "^11.11.17",
+    "lucide-react": "^0.460.0"
+  }
+}
